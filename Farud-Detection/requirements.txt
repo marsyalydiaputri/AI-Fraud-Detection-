@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+duckdb
+plotly==5.11.0
+python-dotenv
+groq
+openpyxl
